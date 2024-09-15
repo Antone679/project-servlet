@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 10px;
+    width: 110px;
+    height: 110px;
+    font-size: 55px;
+    text-align: center;
+    empty-cells: show;
+    color: red;
+}
